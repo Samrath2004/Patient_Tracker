@@ -1,0 +1,70 @@
+User has started application
+User selected from menu #1
+User accessed addPatient function
+Patient was added to system
+User selected from menu #3
+User accessed PrintPatients function
+Patient found in triaged container
+Patient report was printed
+User selected from menu #11
+Help menu accessed
+Help requested for print all patients treated
+Help menu has been printed
+User selected from menu #11
+Help menu accessed
+Help requested for add patient
+Help menu has been printed
+User has started application
+User selected from menu #5
+User accessed printTreated function
+All patients treated reports printed
+User selected from menu #1
+User accessed addPatient function
+Patient was added to system
+User selected from menu #1
+User accessed addPatient function
+Patient was added to system
+User selected from menu #3
+User accessed PrintPatients function
+Patient found in triaged container
+Patient report was printed
+User selected from menu #4
+All patients in triage reports printed
+User selected from menu #5
+User accessed printTreated function
+All patients treated reports printed
+User selected from menu #2
+User accessed treatNext function
+User treated sam th
+Next patient was treated according to Triaged Order
+User selected from menu #5
+User accessed printTreated function
+All patients treated reports printed
+User selected from menu #2
+User accessed treatNext function
+User has started application
+User selected from menu #5
+User accessed printTreated function
+All patients treated reports printed
+User selected from menu #1
+User accessed addPatient function
+Patient was added to system
+User selected from menu #1
+User accessed addPatient function
+Patient was added to system
+User selected from menu #2
+User accessed treatNext function
+User treated ash eh
+Next patient was treated according to Triaged Order
+User selected from menu #2
+User accessed treatNext function
+User treated sam 23
+Next patient was treated according to Triaged Order
+User selected from menu #2
+User accessed treatNext function
+User has started application
+User selected from menu #9
+User accessed addPatients function
+Patients added from file
+User selected from menu #10
+User has accessed changeMode function
